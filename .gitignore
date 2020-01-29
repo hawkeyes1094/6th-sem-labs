@@ -1,0 +1,4 @@
+# C object files
+*.o
+*.obj
+
